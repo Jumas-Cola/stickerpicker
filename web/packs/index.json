@@ -1,6 +1,7 @@
 {
   "packs": [
-    "IxIstickers.json"
+    "IxIstickers.json",
+    "LogicTrap_by_fStikBot.json"
   ],
   "homeserver_url": "https://ohg2kumaimui.site"
 }
